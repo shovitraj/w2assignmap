@@ -10,7 +10,7 @@ date: `r today`
 always_allow_html: yes
 ---
 
-### Southern California Mountains Hiked Summer 2019
+### Southern California Mountains Hiked During Summer 2019
 
 As a part of Week 2 assignment, I created a map of all the Southern California mountains that my colleague Ionel and I hiked during the Summer of 2019. We were destined to be on the top of Mt. Whitney (elevation 14,505 feet) on August 3rd. Mt. Whitney is the higest mountain in the contiguous United States and falls on the popular Sierra Nevada range. To train and condition our body we hiked four other mountains greater than 10,000 feet in Southern California during the months of June and July.
 
